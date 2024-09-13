@@ -110,7 +110,10 @@ a:hover {
     color: #f4f4f4; }
   .intro h1 span {
     font-size: 47px; }
-
+  .intro-rest h1 {
+    font-size: 3.25em;
+    margin-bottom: 65px !important;
+  }
 .work .work-list {
   margin-left: 0px; }
   .work .work-list li {
@@ -125,6 +128,13 @@ a:hover {
       border-bottom: 1px solid #b3b3b3; }
       .work .work-list li a:hover {
         border-bottom: 1px solid #333333; }
+    .work .work-list li span {
+      padding-bottom: 5px;
+      font-size: 1.1875em;
+      font-weight: 700;
+      text-decoration: none;
+      border-bottom: 1px solid #b3b3b3;
+      color: #4e4e4e; }
 
 .award .award-list {
   margin-left: 0px; }
