@@ -149,10 +149,11 @@ a:hover {
     color: #8c8c8c; }
 
 .quote {
-  background: url(../img/bg.jpg);
-  padding: 20px 0px;
+  background: url(../img/bg.png);
+  padding: 80px 0px;
   margin-top: 120px;
-  background-size: cover; }
+  background-size: cover;
+ }
   .quote h1 {
     margin: 100px 0px;
     padding: 40px 20px;
