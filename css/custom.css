@@ -168,3 +168,32 @@ footer {
       font-size: 1.25em;
       color: #999999; }
 
+@media (max-width: 480px) {
+  .intro h1:before {
+    position: absolute;
+    left: -30px;
+    top: -150px;
+    font-size: 114px;
+  }
+  h1 {
+    font-size: 1.25em;
+  }
+  .intro h1 span {
+    font-size: 26px;
+}
+  .quote {
+    background-position: center;
+  }
+}
+
+/* @media (min-width: 481px) and (max-width: 768px) {
+  
+}
+
+@media (min-width:1025px) and (max-width: 1200px) {
+
+}
+
+@media (min-width: 1201px) {
+
+} */
